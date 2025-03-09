@@ -21,4 +21,3 @@ Note: all images are using simulated data
 ## SEO Organic Visibility & Traffic Summary
 
 
-## SEO Opportunity Identification Report
