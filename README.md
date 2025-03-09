@@ -15,9 +15,11 @@ Note: all images are using simulated data
 ![shiny-dash-sem-waterfall](https://github.com/user-attachments/assets/fcf1d9a5-8692-41ea-a06e-9a97dc718cfa)
 
 
-## SEO Organic Revenue Performance Summary
+## SEO Organic Performance Summaries & Quality Control Charts
+
+![shiny-dash-seo-qcc](https://github.com/user-attachments/assets/7c3ad781-6039-4c51-9d7d-c69068999a64)
 
 
-## SEO Organic Visibility & Traffic Summary
+
 
 
