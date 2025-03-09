@@ -1,4 +1,4 @@
-# SEM & SEO BI Dashboards built in R Shiny
+# BI Dashboards built in R Shiny
 
 Note: all images are using simulated data
 
