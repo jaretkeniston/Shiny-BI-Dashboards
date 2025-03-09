@@ -15,10 +15,10 @@ Note: all images are using simulated data
 ![shiny-dash-sem-waterfall](https://github.com/user-attachments/assets/fcf1d9a5-8692-41ea-a06e-9a97dc718cfa)
 
 
-## SEO Executive Summary
+## SEO Organic Revenue Performance Summary
 
 
-## SEO Operator Summary
+## SEO Organic Visibility & Traffic Summary
 
 
-## SEO Open Issues Report
+## SEO Opportunity Identification Report
