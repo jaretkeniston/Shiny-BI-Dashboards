@@ -12,7 +12,8 @@ Note: all images are using simulated data
 
 ## SEM Diagnostic Waterfall Chart
 
-<img width="829" alt="image" src="https://github.com/user-attachments/assets/a814f7e4-ec21-4760-8c2f-549cf059d69b" />
+![shiny-dash-sem-waterfall](https://github.com/user-attachments/assets/fcf1d9a5-8692-41ea-a06e-9a97dc718cfa)
+
 
 ## SEO Executive Summary
 
